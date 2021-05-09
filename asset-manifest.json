@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/berlm-website/static/css/main.0cb3ca1e.chunk.css",
-    "main.js": "/berlm-website/static/js/main.61fab476.chunk.js",
-    "main.js.map": "/berlm-website/static/js/main.61fab476.chunk.js.map",
-    "runtime-main.js": "/berlm-website/static/js/runtime-main.b61faa0b.js",
-    "runtime-main.js.map": "/berlm-website/static/js/runtime-main.b61faa0b.js.map",
-    "static/js/2.ec2a8bff.chunk.js": "/berlm-website/static/js/2.ec2a8bff.chunk.js",
-    "static/js/2.ec2a8bff.chunk.js.map": "/berlm-website/static/js/2.ec2a8bff.chunk.js.map",
-    "index.html": "/berlm-website/index.html",
-    "static/css/main.0cb3ca1e.chunk.css.map": "/berlm-website/static/css/main.0cb3ca1e.chunk.css.map",
-    "static/js/2.ec2a8bff.chunk.js.LICENSE.txt": "/berlm-website/static/js/2.ec2a8bff.chunk.js.LICENSE.txt",
-    "static/media/WelcomeCard.css": "/berlm-website/static/media/coolboicode.e2c0abc3.png",
-    "static/media/myUpiCode.b701691f.png": "/berlm-website/static/media/myUpiCode.b701691f.png",
-    "static/media/paypal.e936b721.svg": "/berlm-website/static/media/paypal.e936b721.svg",
-    "static/media/upi.449e20e8.svg": "/berlm-website/static/media/upi.449e20e8.svg"
+    "main.css": "/static/css/main.8bf162a4.chunk.css",
+    "main.js": "/static/js/main.61fab476.chunk.js",
+    "main.js.map": "/static/js/main.61fab476.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7c330739.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7c330739.js.map",
+    "static/js/2.ec2a8bff.chunk.js": "/static/js/2.ec2a8bff.chunk.js",
+    "static/js/2.ec2a8bff.chunk.js.map": "/static/js/2.ec2a8bff.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8bf162a4.chunk.css.map": "/static/css/main.8bf162a4.chunk.css.map",
+    "static/js/2.ec2a8bff.chunk.js.LICENSE.txt": "/static/js/2.ec2a8bff.chunk.js.LICENSE.txt",
+    "static/media/WelcomeCard.css": "/static/media/coolboicode.e2c0abc3.png",
+    "static/media/myUpiCode.b701691f.png": "/static/media/myUpiCode.b701691f.png",
+    "static/media/paypal.e936b721.svg": "/static/media/paypal.e936b721.svg",
+    "static/media/upi.449e20e8.svg": "/static/media/upi.449e20e8.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b61faa0b.js",
+    "static/js/runtime-main.7c330739.js",
     "static/js/2.ec2a8bff.chunk.js",
-    "static/css/main.0cb3ca1e.chunk.css",
+    "static/css/main.8bf162a4.chunk.css",
     "static/js/main.61fab476.chunk.js"
   ]
 }
