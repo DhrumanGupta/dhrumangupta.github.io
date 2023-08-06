@@ -1,3 +1,3 @@
-# CLOSED
+# GH Pages Website
 
-This repository has been closed in favor of [another](https://github.com/DhrumanGupta/berlm.me), which is being/will be hosted on netlify instead of 
+My personal website can be found at [berlm.me](https://berlm.me). This repository is an asset store that is used by that website
